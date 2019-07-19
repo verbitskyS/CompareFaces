@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="10dp"
+              android:background="@color/colorPrimaryDark"
+              >
+
+
+    <TextView
+            android:layout_width="300dp"
+            android:textColor="@color/text"
+            android:textSize="16dp"
+            android:layout_marginBottom="15dp"
+            android:layout_height="wrap_content"
+            android:text="Load the picture from:"/>
+    <Button
+            android:id="@+id/btCamera"
+            android:text="Camera"
+            android:textSize="20dp"
+            android:textColor="@color/text"
+            android:background="@color/invisible"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content" />
+    <!--the input text will show in this text view-->
+    <Button
+            android:id="@+id/btGallery"
+            android:text="Gallery"
+            android:textSize="20dp"
+            android:textColor="@color/text"
+            android:background="@color/invisible"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content" />
+
+
+</LinearLayout>

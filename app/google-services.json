@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "782286623497",
+    "firebase_url": "https://face-recognition-239115.firebaseio.com",
+    "project_id": "face-recognition-239115",
+    "storage_bucket": "face-recognition-239115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782286623497:android:56ed1a3611b61e69",
+        "android_client_info": {
+          "package_name": "ru.verbitsky.comparefaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782286623497-fi0ek9ehcrhaar4elcak1q2qk5j0ljdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSHLNKVksZs85Q7bzw1HDBG_XOsVQbjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782286623497-fi0ek9ehcrhaar4elcak1q2qk5j0ljdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782286623497:android:39977c4493808679",
+        "android_client_info": {
+          "package_name": "ru.verbitsky.faceml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782286623497-fi0ek9ehcrhaar4elcak1q2qk5j0ljdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSHLNKVksZs85Q7bzw1HDBG_XOsVQbjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782286623497-fi0ek9ehcrhaar4elcak1q2qk5j0ljdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782286623497:android:631076dbe4284624",
+        "android_client_info": {
+          "package_name": "ru.verbitsky.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782286623497-fi0ek9ehcrhaar4elcak1q2qk5j0ljdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSHLNKVksZs85Q7bzw1HDBG_XOsVQbjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782286623497-fi0ek9ehcrhaar4elcak1q2qk5j0ljdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782286623497:android:7ebc22f68be910f0",
+        "android_client_info": {
+          "package_name": "ru.verbitsky.opencvandkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782286623497-fi0ek9ehcrhaar4elcak1q2qk5j0ljdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSHLNKVksZs85Q7bzw1HDBG_XOsVQbjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782286623497-fi0ek9ehcrhaar4elcak1q2qk5j0ljdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
